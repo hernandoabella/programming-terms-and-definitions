@@ -1,1 +1,1 @@
-# terms-and-definitions
+# programming-terms-and-definitions
